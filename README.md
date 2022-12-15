@@ -1,2 +1,2 @@
 # use-context-hooks
-Created with CodeSandbox
+The simplest version of the context structure I use in projects
